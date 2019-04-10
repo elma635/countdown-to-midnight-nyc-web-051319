@@ -16,8 +16,6 @@ end
 end
 
 def countdown_with_sleep (seconds_to_midnight)
-loop do
-  
-end
+  sleep 5  
 
 end
